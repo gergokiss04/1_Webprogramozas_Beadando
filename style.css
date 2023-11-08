@@ -1,0 +1,140 @@
+body{
+    background-image: url(img/cesar-couto-TIvFLeqZ4ec-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container{
+    margin: 100px 40px 30px 40px;
+    padding: 30px 30px 30px 30px;
+    border-radius: 40px;
+    border: 5px ridge rgb(37, 117, 143);
+    background-color: #21455f81;
+}
+
+.header{
+    background-color: #183e58cd;
+    border-radius: 40px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+th, td {
+    padding: 30px;
+    
+}
+
+.td-border{
+    border: 5px solid rgba(156, 162, 183, 0.7);
+    background-color:#183e58;
+    text-align: center;
+}
+
+
+footer {
+    display: block;
+  }
+
+.youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
+
+h4{
+    text-align: center;
+    color: white;
+}
+
+p{
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+}
+
+h6{
+    text-align: center;
+    color: white;
+}
+
+
+td{
+    width: 40px;
+    height: 40px;
+}
+
+
+.img-chess{
+        width: 40px;
+        height: 40px;
+    
+}
+
+.other-month{
+    background-color: gray;
+    color: red;
+}
+
+table{
+    
+    margin: 40px auto;
+    border-collapse: collapse;
+    border: 4px solid rgb(177, 131, 97);
+    background: rgb(65, 33, 10);
+    color: rgb(255, 255, 255);
+    font-weight:bold;
+    font-size:x-large;
+}
+
+.balra-forgatas{
+    border-bottom: 7px solid #B18361;
+    transform: rotate(-180deg);
+}
+
+.jobb-forgatas{
+    transform: rotate(-180deg);
+    border-left: 7px solid #B18361;
+}
+
+.bal-forgatas{
+    border-right: 7px solid #B18361;
+}
+
+.lent_sarok{
+    border-top: 7px solid #B18361;
+}
+
+.black{
+    background-color:black;
+}
+.white{
+    background: white;
+}
+
+.center {
+   vertical-align: middle;
+
+  }
+
+.card-body{
+    background-color: #183e58ed;
+}
+
+hr.new-hr{
+    border-top: 5px solid rgb(23, 40, 121);
+}
+
+p.textcenter{
+    text-align: center;
+}
+
+li{
+    color: white;
+}
+
